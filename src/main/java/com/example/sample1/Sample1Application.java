@@ -13,3 +13,4 @@ public class Sample1Application {
 }
 
 // master conflict
+// new branch conflict

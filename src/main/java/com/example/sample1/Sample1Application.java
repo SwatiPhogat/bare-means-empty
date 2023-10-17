@@ -15,3 +15,4 @@ public class Sample1Application {
 // master conflict
 // new branch conflict
 // A local change- it will conflict with the remote change
+// lets see
